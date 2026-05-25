@@ -1,3 +1,3 @@
 # Rhys-Ben_Game
 
-This is an in progress video game. Details comeing soon.
+This is an in progress video game. Details coming soon.
